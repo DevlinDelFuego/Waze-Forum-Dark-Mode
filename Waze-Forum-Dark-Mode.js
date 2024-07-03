@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name                Waze Forum Dark Mode
-// @namespace
+// @namespace           https://greasyfork.org/users/1082691
 // @description         Enables dark mode for Waze forum pages
 // @include             https://www.waze.com/forum/*
 // @grant               none
