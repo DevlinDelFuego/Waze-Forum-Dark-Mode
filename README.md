@@ -1,2 +1,2 @@
 # Waze-Forum-Dark-Mode
-Gives Waze Forum a dark mode theme
+Enables dark mode for Waze forum pages
